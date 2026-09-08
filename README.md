@@ -4,27 +4,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hoandoandev/">
-    <img src="https://img.shields.io/badge/-hoandoandev-0a66c2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:hoandoan288@gmail.com">
-    <img src="https://img.shields.io/badge/-hoandoan288@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/hoandhh">
-    <img src="https://img.shields.io/badge/-hoandhh-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=hoandhh&style=flat&color=blue" alt="Profile views"/>
 </p>
 
 ## 👋 About Me
 
-I'm a **Backend/AI Engineer** at **LG CNS Vietnam**, focused on building scalable backend services, enterprise AI agent platforms, and AWS-based applications. I mainly work with **Python, FastAPI, LangGraph, and LangChain** — from production-grade APIs to LLM-orchestrated agent workflows.
+I graduated in Computer Science from **University of Science (VNU)**, and I'm now working as a **Backend/AI Engineer** at **LG CNS Vietnam**.
 
-- 🔭 Currently building the **Builder module** of **LG AgenticWorks** — a LangFlow-based environment for designing and deploying enterprise AI agents, plus observability/evaluation pipelines with **LangSmith**.
-- 🚀 Previously contributed to **LG Optapex™**, an AI-powered ad optimization platform for Amazon Ads — campaign automation, bidding optimization, referral systems, and MFA/authorization, backed by AWS (Lambda, Cognito, CloudWatch).
-- 🌱 Exploring multi-agent orchestration, semantic memory (vector DBs), and agentic RAG systems in my side projects.
-- 🧠 Background in computer vision research (CNN+LSTM, CLIP, BLIP, ViT, YOLOv7) from my time at VNU-ITI AI Research Center.
-- 💬 Ask me about **FastAPI, LangGraph agent design, or AWS serverless backends**.
-- ⚡ Fun fact: I once fine-tuned a caption model to describe Hanoi landmarks — in Vietnamese.
 
 ## 🧰 Tech Stack
 
@@ -42,16 +36,19 @@ I'm a **Backend/AI Engineer** at **LG CNS Vietnam**, focused on building scalabl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="36" height="36"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="36" height="36"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="36" height="36"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-plain-wordmark.svg" title="Gin" alt="Gin" width="36" height="36"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Gin-00ACD7?style=flat&logo=gin&logoColor=white" alt="Gin"/>
 </p>
 
 **AI / LLM**
 
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="36" height="36"/>&nbsp;
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/-LangFlow-27A5E1?style=flat" alt="LangFlow"/>
   <img src="https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/-Phoenix-6E56CF?style=flat" alt="Phoenix"/>
+  <img src="https://img.shields.io/badge/-Langfuse-000000?style=flat" alt="Langfuse"/>
 </p>
 
 **Databases & Vector Stores**
